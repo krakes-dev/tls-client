@@ -3,8 +3,8 @@ package profiles
 import (
 	"math"
 
-	"github.com/bogdanfinn/fhttp/http2"
 	tls "github.com/bogdanfinn/utls"
+	"github.com/krakes-dev/fhttp/http2"
 )
 
 var MMSIos2 = getMMSClientProfile2()

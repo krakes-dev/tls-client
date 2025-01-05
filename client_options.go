@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	http "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/tls-client/profiles"
+	http "github.com/krakes-dev/fhttp"
+	"github.com/krakes-dev/tls-client/profiles"
 )
 
 type HttpClientOption func(config *httpClientConfig)
