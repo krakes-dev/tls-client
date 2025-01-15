@@ -5,7 +5,6 @@ go 1.22.0
 toolchain go1.23.4
 
 require (
-	github.com/bogdanfinn/fhttp v0.5.31
 	github.com/bogdanfinn/utls v1.6.3
 	github.com/google/uuid v1.6.0
 	github.com/krakes-dev/fhttp v1.0.0
